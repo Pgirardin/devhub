@@ -105,7 +105,7 @@ export default function SubscribePage(_props: SubscribePageProps) {
             </a>
           </Link>
 
-          <span className="text-muted-65">Logged as </span>
+          <span className="text-muted-65">Logged as..  </span>
           <a
             className="text-muted-65"
             href={`https://github.com/${authData.github.login}`}
