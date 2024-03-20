@@ -113,26 +113,7 @@ export default function HomePage(_props: HomePageProps) {
             </small>
           </div>
 
-          {/* <div className="lg:w-7/12">
-            <div className="block sm:hidden">
-              <div className="pb-8" />
-
-              <DeviceFrame>
-                <div className="relative w-full h-full m-auto">
-                  <img
-                    alt="DevHub mobile screenshot"
-                    src="/static/screenshots/iphone-notifications-light.jpg"
-                    className="visible-light-theme absolute inset-0 object-cover bg-white"
-                  />
-                  <img
-                    alt="DevHub mobile screenshot"
-                    src="/static/screenshots/iphone-notifications-dark.jpg"
-                    className="visible-dark-theme absolute inset-0 object-cover"
-                  />
-                </div>
-              </DeviceFrame>
-            </div>
-          </div> */}
+         
         </div>
 
         <div className="pb-16" />
